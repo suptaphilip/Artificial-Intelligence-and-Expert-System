@@ -58,7 +58,8 @@
 
 
 ### Books
-> [Text Book](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Book.pdf)
+> [Text Book 3e](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/AI%20Book%203e.pdf)
+> [Text Book 4e](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/AI%20Book%204e_.pdf)
 
 ### Reading
 > [Artificial Intelligence Environments](https://medium.com/@jrodthoughts/6-types-of-artificial-intelligence-environments-825e3c47d998)
