@@ -28,7 +28,7 @@
 
 ## Reinforcement Learning Books
 
-[Text Book RL BartoSutton](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/BartoSutton_c.pdf)
+### [Text Book RL BartoSutton](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/BartoSutton_c.pdf)
 
 ### Lecture Sildes
 
