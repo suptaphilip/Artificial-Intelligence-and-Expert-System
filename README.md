@@ -29,6 +29,7 @@
 ## Algorithm Book
 
 ### [CLRS 3e](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/Introduction%20to%20algorithms%20by%20CLRS%203e.pdf)
+### [CLRS 4e](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/blob/AIUB-AI/Introduction%20to%20algorithms%20by%20CLRS%204e.pdf)
 
 ## Reinforcement Learning Books
 
