@@ -26,6 +26,10 @@
 
 ### [Text Book 4e](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/AI%20Book%204e_.pdf)
 
+## Reinforcement Learning Books
+
+[Text Book RL BartoSutton](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/BartoSutton_c.pdf)
+
 ### Lecture Sildes
 
   >  [What is AI](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/AI%20L1.pdf)
@@ -35,17 +39,6 @@
   >[Inference in first-order logic](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter09.pdf)
   
   >[Edx AI Logical Agents](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Edx%20Logical%20Agents.pdf)
-
-### Assignment
-
-
-
-
-### Reading
-
-
-
-### Video Tutorials
 
 
 
