@@ -26,6 +26,10 @@
 
 ### [Text Book 4e](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/AI%20Book%204e_.pdf)
 
+## Algorithm Book
+
+### [CLRS 3e](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/Introduction%20to%20algorithms%20by%20CLRS%203e.pdf)
+
 ## Reinforcement Learning Books
 
 ### [Text Book RL BartoSutton](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/BartoSutton_c.pdf)
