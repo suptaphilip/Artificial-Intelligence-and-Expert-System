@@ -22,9 +22,9 @@
 
 ## Artificial Intelligence Books
 
-### [Text Book 3e](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/AI%20Book%203e.pdf)
+### [AIMA Book 3e](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/AI%20Book%203e.pdf)
 
-### [Text Book 4e](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/AI%20Book%204e_.pdf)
+### [AIMA Book 4e](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/AI%20Book%204e_.pdf)
 
 ## Algorithm Book
 
