@@ -6,41 +6,26 @@
 
 - Mid Term
 
-+ Lecture 1: Chapter 1,2 -- Introduction and Intelligent Agents
-+ Lecture 2: Chapter 3 -- Solving Problems by Searching: 3.1 Problem-Solving Agents, 3.2 Example Problems
-+ Lecture 3: Chapter 3 -- Solving Problems by Searching: 3.3 Searching for Solutions, 3.4 Uninformed Search Strategies
-+ Lecture 4: Chapter 3 -- Solving Problems by Searching: 3.5 Informed (Heuristic) Search Strategies, 3.6 Heuristic Functions
-+ Lecture 5: Chapter 4 -- Beyond Classical Search: 4.1 Local Search Algorithms and Optimization Problems(Hill-climbing search,Simulated annealing)
-+ Lecture 6: Review
++ Lecture 1: Chapter 1 -- Introduction
++ Lecture 2: Chapter 2 -- Intelligent Agents
++ Lecture 3: Chapter 3 -- Solving Problems by Searching: 3.1 Problem-Solving Agents, 3.2 Example Problems
++ Lecture 4: Chapter 3 -- Solving Problems by Searching: 3.3 Searching for Solutions, 3.4 Uninformed Search Strategies
++ Lecture 5: Chapter 3 -- Solving Problems by Searching: 3.5 Informed (Heuristic) Search Strategies, 3.6 Heuristic Functions)
++ Lecture 6: Chapter 4 -- Beyond Classical Search: 4.1 Local Search Algorithms and Optimization Problems(Hill-climbing search)
 
 ```
 
-[What is AI](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/AI%20L1.pdf)
-  
-```diff
-
-+ Lecture 1
-
-```
-[Intelligent Agents](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/AI%20L2.pdf)
-  
-```diff
-
-- Lecture 1
-
-```
-[Inference in first-order logic](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter09.pdf)
 
 ```diff
 
 - Final Term
 
-+ Lecture 7: Chapter 4 -- Beyond Classical Search: 4.1 Local Search Algorithms and Optimization Problems(Local beam search,Genetic algorithms)
-+ Lecture 8: Chapter 5 -- Adversarial Search
-+ Lecture 9: Chapter 6 Constraint Satisfaction Problems
-+ Lecture 10: 
-+ Lecture 11
-+ Lecture 12:
++ Lecture 7: Chapter 4 -- Beyond Classical Search: 4.1.2 Simulated annealing, 4.1.3 Local beam search
++ Lecture 8: Chapter 4 -- Beyond Classical Search: 4.1.4 Genetic algorithms
++ Lecture 9: Chapter 5 -- Adversarial Search
++ Lecture 10: Chapter 6 -- Constraint Satisfaction Problems
++ Lecture 11: Chapter 13 -- Quantifying Uncertainty
++ Lecture 12: Chapter 14 -- Probabilistic Reasoning
 ```
 [Edx AI Logical Agents](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Edx%20Logical%20Agents.pdf)
 
