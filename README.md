@@ -35,6 +35,12 @@
 
 ### [Text Book RL BartoSutton](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/BartoSutton_c.pdf)
 
+## Machine Learning Books
+
+### [Algorithm For Decision Making](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/Algorithms%20for%20Decision%20Making.pdf)
+
+### [Probabilistic Machine Learning](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/Probabilistic%20Machine%20Learning_.pdf)
+
 ### Lecture Sildes
 
   >  [What is AI](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/AI%20L1.pdf)
