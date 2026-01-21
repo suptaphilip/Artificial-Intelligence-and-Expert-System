@@ -6,11 +6,12 @@
 
 - Mid Term
 
-+ Lecture 1
-+ Lecture 2
-+ Lecture 3
-+ Lecture 4
-+ Lecture 5
++ Lecture 1: Chapter 1,2 -- Introduction and Intelligent Agents
++ Lecture 2: Chapter 3 -- Solving Problems by Searching: 3.1 Problem-Solving Agents, 3.2 Example Problems
++ Lecture 3: Chapter 3 -- Solving Problems by Searching: 3.3 Searching for Solutions, 3.4 Uninformed Search Strategies
++ Lecture 4: Chapter 3 -- Solving Problems by Searching: 3.5 Informed (Heuristic) Search Strategies, 3.6 Heuristic Functions
++ Lecture 5: Chapter 4 -- Beyond Classical Search: 4.1 Local Search Algorithms and Optimization Problems(Hill-climbing search,Simulated annealing)
++ Lecture 6: Review
 
 ```
 
@@ -34,11 +35,12 @@
 
 - Final Term
 
-+ Lecture 1
-+ Lecture 2
-+ Lecture 3
-+ Lecture 4
-+ Lecture 5
++ Lecture 7: Chapter 4 -- Beyond Classical Search: 4.1 Local Search Algorithms and Optimization Problems(Local beam search,Genetic algorithms)
++ Lecture 8: Chapter 5 -- Adversarial Search
++ Lecture 9: Chapter 6 Constraint Satisfaction Problems
++ Lecture 10: 
++ Lecture 11
++ Lecture 12:
 ```
 [Edx AI Logical Agents](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Edx%20Logical%20Agents.pdf)
 
