@@ -27,7 +27,6 @@
 + Lecture 11: Chapter 13 -- Quantifying Uncertainty
 + Lecture 12: Chapter 14 -- Probabilistic Reasoning
 ```
-[Edx AI Logical Agents](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Edx%20Logical%20Agents.pdf)
 
 
 ## Artificial Intelligence Books
