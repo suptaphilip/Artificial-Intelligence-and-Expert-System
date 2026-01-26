@@ -50,6 +50,12 @@
 
 ### [Probabilistic Machine Learning](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/Probabilistic%20Machine%20Learning_.pdf)
 
+### [Mathematics for Machine Learning](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/mml-book.pdf)
+
+### [Introduction to Machine Learning](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/ML%20Book_Alpaydin.pdf)
+
+### [Time Series Analysis](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/ShumwayStofferTimeSeries.pdf)
+
 
 
 
