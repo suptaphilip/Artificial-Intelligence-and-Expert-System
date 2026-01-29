@@ -2,6 +2,12 @@
 
 #### All the materials(notes, slide, handouts, books, code), you will find in the course home page.
 
+## Course Home
+- [15-281 Artificial Intelligence: Representation and Problem Solving](https://www.cs.cmu.edu/\~15281/#coursenotes)
+- [cs 188 uc berkeley](https://inst.eecs.berkeley.edu/~cs188/fa25/)
+- [Introduction to Artificial Intelligence book](https://inst.eecs.berkeley.edu/~cs188/textbook/)
+- [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+
 ```diff
 
 - Mid Term
