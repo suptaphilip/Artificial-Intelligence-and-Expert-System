@@ -62,8 +62,11 @@
 
 ### [Time Series Analysis](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/ShumwayStofferTimeSeries.pdf)
 
+## Data Science Book
 
+### [Data-Science-Concepts-and-Practice-2nd-Edition-3](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/Data-Science-Concepts-and-Practice-2nd-Edition-3_compressed.pdf)
 
+### [R_in_Action](https://github.com/suptaphilip/Artificial-Intelligence-and-Expert-System/raw/AIUB-AI/R_in_Action.pdf)
 
 
 
