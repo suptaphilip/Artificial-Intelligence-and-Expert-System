@@ -11,27 +11,25 @@
 ```diff
 
 - Mid Term
-
 + Lecture 1: Chapter 1 -- Introduction
 + Lecture 2: Chapter 2 -- Intelligent Agents
 + Lecture 3: Chapter 3 -- Solving Problems by Searching: 3.1 Problem-Solving Agents, 3.2 Example Problems
-+ Lecture 4: Chapter 4 -- Solving Problems by Searching: 3.3 Searching for Solutions, 3.4 Uninformed Search Strategies
-+ Lecture 5: Chapter 5 -- Solving Problems by Searching: 3.5 Informed (Heuristic) Search Strategies, 3.6 Heuristic Functions
-+ Lecture 6: Chapter 4 -- Beyond Classical Search: 4.1 Local Search Algorithms and Optimization Problems(Hill-climbing Search, Simulated Annealing, Local Beam Search.)
++ Lecture 4: Chapter 3 -- Solving Problems by Searching: 3.3 Searching for Solutions, 3.4 Uninformed Search Strategies
++ Lecture 5: Chapter 3 -- Solving Problems by Searching: 3.5 Informed (Heuristic) Search Strategies, 3.6 Heuristic Functions
++ Lecture 6: Chapter 5 -- Adversarial Searchc, Minimax Algorithm, Alpha-beta prunning
 
 ```
-
 
 ```diff
 
 - Final Term
-
-+ Lecture 7: Chapter 4 -- Beyond Classical Search: 4.1.4 Genetic algorithms
-+ Lecture 8: Chapter 5 -- Adversarial Search
++ Lecture 7: Chapter 4 -- Beyond Classical Search: 4.1 Local Search Algorithms and Optimization Problems(Hill-climbing Search, Simulated Annealing, Local Beam Search.)
++ Lecture 8: Chapter 4 -- Beyond Classical Search: 4.1.4 Genetic algorithms
 + Lecture 9: Chapter 6 -- Constraint Satisfaction Problems
-+ Lecture 10: Chapter 13 -- Quantifying Uncertainty
-+ Lecture 11: Chapter 14 -- Probabilistic Reasoning
-+ Lecture 12: Chapter 19 -- Artificial Neural Networks
++ Lecture 10: Chapter 13 14 -- Quantifying Uncertainty, Probabilistic Reasoning
++ Lecture 11: Chapter 15 -- Probabilistic Reasoning over Time: 15.1 Time and Uncertainty, 15.2 Inference in Temporal Models, 15.3 Hidden Markov Models
++ Lecture 12: Chapter 18 -- Learning from Examples: 18.1 Forms of Learning, 18.2 Supervised Learning, 18.6 Regression and Classification with Linear Models, 18.7 Artificial Neural Networks
+
 ```
 
 
